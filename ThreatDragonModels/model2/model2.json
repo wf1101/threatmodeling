@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "model2",
+    "owner": "wf1101",
+    "description": "second try"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "model2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "wf1101"
+  }
+}
