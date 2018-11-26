@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Modeling Exp",
+    "owner": "wf1101",
+    "description": "This threat modeling is a 'homework' of threat modeling tutorial."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "wf1101"
+  }
+}
